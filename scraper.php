@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 
 $url = 'http://www.flipkart.com/books/0143099701';
 
